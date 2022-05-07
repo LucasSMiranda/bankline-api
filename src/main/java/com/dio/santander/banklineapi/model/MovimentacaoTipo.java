@@ -1,6 +1,7 @@
 package com.dio.santander.banklineapi.model;
 
-public enum MovimentaçãoTipo {
+public enum MovimentacaoTipo {
 	RECEITA,
 	DESPESA
-	}
+
+}
