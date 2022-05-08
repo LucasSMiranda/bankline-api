@@ -7,7 +7,7 @@ public class Movimentacao {
 	private LocalDateTime dataHora; //Alterado para Date
 	private String descricao;
 	private Double valor;
-	private MovimentacaoTipo tipo;
+	private MovimentacaoTipo tipo; //Corrigido erro
 	
 	public Integer getId() {
 		return id;
